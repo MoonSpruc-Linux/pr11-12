@@ -1,6 +1,13 @@
 ### Practice 11-12
 
-### API-шар
+### Скрішноти:
+![Alt text](https://github.com/MoonSpruc-Linux/pr11-12/blob/main/screenshots/1.jpg)
+![Alt text](https://github.com/MoonSpruc-Linux/pr11-12/blob/main/screenshots/2.jpg)
+![Alt text](https://github.com/MoonSpruc-Linux/pr11-12/blob/main/screenshots/3.jpg)
+![Alt text](https://github.com/MoonSpruc-Linux/pr11-12/blob/main/screenshots/4.jpg)
+![Alt text](https://github.com/MoonSpruc-Linux/pr11-12/blob/main/screenshots/5.jpg)
+
+### API
 
 Логіка роботи з сервером винесена в окремий файл js/api.js. Реалізовані функції для всіх основних HTTP-операцій:
 
