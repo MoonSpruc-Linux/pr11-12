@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Landing Page",
+      "category": "frontend",
+      "status": "published",
+      "price": 1800,
+      "description": "Односторінковий сайт"
+    },
+    {
+      "id": "2",
+      "title": "React App",
+      "category": "frontend",
+      "status": "draft",
+      "price": 2500,
+      "description": "SPA додаток"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
